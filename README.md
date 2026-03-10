@@ -85,7 +85,7 @@ This project helped me practice:
 You can view the live project here:
 
 **GitHub Pages:**
-[https://your-username.github.io/dashboard-project/](https://your-username.github.io/dashboard-project/)
+[https://godsondgb.github.io/dashboard-project/](https://godsondgb.github.io/dashboard-project/)
 
 ---
 
